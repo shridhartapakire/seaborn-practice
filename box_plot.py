@@ -10,4 +10,6 @@ sns.boxplot(x=expenses)
 plt.title("Expense Box Plot")
 plt.xlabel("Amount")
 
+plt.savefig("images/box_plot.png")
+
 plt.show()

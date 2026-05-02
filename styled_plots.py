@@ -15,4 +15,6 @@ plt.title("Styled Expense Chart")
 plt.xlabel("Category")
 plt.ylabel("Amount")
 
+plt.savefig("images/styled_bar_plot.png")
+
 plt.show()

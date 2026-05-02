@@ -11,4 +11,6 @@ plt.title("Expense Distribution")
 plt.xlabel("Amount")
 plt.ylabel("Frequency")
 
+plt.savefig("images/histogram.png")
+
 plt.show()

@@ -12,4 +12,6 @@ plt.title("Expenses by Category")
 plt.xlabel("Category")
 plt.ylabel("Amount")
 
+plt.savefig("images/bar_plot.png")
+
 plt.show()

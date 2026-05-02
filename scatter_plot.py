@@ -12,4 +12,6 @@ plt.title("Seaborn Scatter Plot")
 plt.xlabel("X Values")
 plt.ylabel("Y Values")
 
+plt.savefig("images/scatter_plot.png")
+
 plt.show()

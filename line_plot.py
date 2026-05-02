@@ -12,4 +12,6 @@ plt.title("Seaborn Line Plot")
 plt.xlabel("X Values")
 plt.ylabel("Y Values")
 
+plt.savefig("images/line_plot.png")
+
 plt.show()
